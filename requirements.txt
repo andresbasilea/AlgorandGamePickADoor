@@ -1,0 +1,4 @@
+Pillow==9.5.0
+Pillow==9.5.0
+py_algorand_sdk==2.2.0
+Tkinter
